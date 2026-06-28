@@ -1,6 +1,6 @@
-import numpy as np
+import numpy as np   
 import matplotlib.pyplot as plt
-
+#Exercise 1.3
 def quad(x, c):
     return c * x * (1 - x)
 
